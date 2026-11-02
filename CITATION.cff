@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you utilize this sensor-based activity recognition pipeline in your research, please cite it as below."
+authors:
+  - family-names: "Ujeniya"
+    given-names: "Krish"
+    orcid: "https://orcid.org/0009-0008-0176-4767"
+title: "Fitness Activity Recognition: Sensor-Based Human Activity Recognition (HAR) Pipeline"
+version: 1.0.0
+date-released: 2026-11-02
+url: "https://github.com/krishujeniya/fitness-activity-recognition"

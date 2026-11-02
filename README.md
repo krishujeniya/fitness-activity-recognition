@@ -1,9 +1,10 @@
+[![CI](https://github.com/krishujeniya/fitness-activity-recognition/actions/workflows/ci.yml/badge.svg)](https://github.com/krishujeniya/fitness-activity-recognition/actions/workflows/ci.yml)
 <a id="readme-top"></a>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/krishujeniya/Fitness-Tracker-ML)
-![GitHub contributors](https://img.shields.io/github/contributors/krishujeniya/Fitness-Tracker-ML)
-![GitHub stars](https://img.shields.io/github/stars/krishujeniya/Fitness-Tracker-ML?style=social)
-![GitHub forks](https://img.shields.io/github/forks/krishujeniya/Fitness-Tracker-ML?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/krishujeniya/fitness-activity-recognition)
+![GitHub contributors](https://img.shields.io/github/contributors/krishujeniya/fitness-activity-recognition)
+![GitHub stars](https://img.shields.io/github/stars/krishujeniya/fitness-activity-recognition?style=social)
+![GitHub forks](https://img.shields.io/github/forks/krishujeniya/fitness-activity-recognition?style=social)
 
 # FitnessTracker
 
